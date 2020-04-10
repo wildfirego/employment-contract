@@ -16,7 +16,7 @@ b. Follow the DATA HANDLING AGREEMENT to the best of her/their/his capability.
 c. Other duties as may arise from time to time and as may be assigned to the employee.
 
 3. Compensation
-a. As full compensation for all services provided the employee shall be paid at the rate of INR ___ per month. Such payments shall be subject to such normal statutory deductions by the Employer.
+a. As full compensation for all services provided the employee shall be paid at the rate of INR _ _ per month. Such payments shall be subject to such normal statutory deductions by the Employer.
 b. The salary mentioned above shall be reviewed on an annual basis.
 c. All reasonable expenses arising out of employment shall be reimbursed assuming same have been authorized prior to being incurred and with the provision of appropriate receipts.
 
@@ -39,8 +39,8 @@ c. The Employer may terminate the employment of the Employee at any time without
 d. The employee agrees to return any property, including but not limited to - data, of the Employer, at the time of termination, as per the DATA HANDLING AGREEMENT.
 
 9. Non-Competition
-a. It is further acknowledged and agreed that following termination of the employee's employment with ________________ for any reason the employee shall not hire or attempt to hire any current employees of _________________.
-b. It is further acknowledged and agreed that following termination of the employee’s employment with ________________ for any reason the employee shall not solicit business from current clients or clients who have retained ________________ in the 6 month period immediately preceding the employee’s termination.
+a. It is further acknowledged and agreed that following termination of the Employee's employment with the Employer for any reason the Employee shall not hire or attempt to hire any current employees of the Employer.
+b. It is further acknowledged and agreed that following termination of the employee's employment with the Employer, for any reason the Employee shall not solicit business from current clients or clients who have retained the Employer in the 6 month period immediately preceding the Employee's termination.
 
 10. Laws
 This agreement shall be governed by the laws of the Union of India, jurisdiction of state of Haryana.
