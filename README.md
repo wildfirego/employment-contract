@@ -35,7 +35,7 @@ The Employee will be provided with a written performance appraisal at least once
 8. Termination
 a. The Employee may at any time terminate this agreement and his employment by giving not less than two weeks written notice to the Employer.
 b. For sufficient cause, the Employer may terminate this Agreement and the Employee’s employment at any time, without notice or payment in lieu of notice.
-c. The Employer may terminate the employment of the Employee at any time without the requirement to show sufficient ause pursuant to (b. above, provided the Employer pays to the Employee an amount equivalent to one month compensation as mentioned in clause 3a.. This payment shall constitute the employees entire entitlement arising from said termination.
+c. The Employer may terminate the employment of the Employee at any time without the requirement to show sufficient cause pursuant to clause 8b above, provided the Employer pays to the Employee an amount equivalent to one month compensation as mentioned in clause 3a. This payment shall constitute the employees entire entitlement arising from said termination.
 d. The employee agrees to return any property, including but not limited to - data, of the Employer, at the time of termination, as per the DATA HANDLING AGREEMENT.
 
 9. Non-Competition
